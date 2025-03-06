@@ -1,2 +1,2 @@
 # KanjiFox
-Kanjifox is coming soon to improve your kanji-power!
+Kanjifox is here to improve your kanji-power!
